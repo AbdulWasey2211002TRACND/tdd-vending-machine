@@ -9,6 +9,8 @@
 - Practice frequent commits with good messages
 
 
+##Author
+Pair Programmers : Wasey and Afnan
 ### Setup
 
 - Clone this repository
